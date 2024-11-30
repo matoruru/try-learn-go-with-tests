@@ -6,4 +6,9 @@
 
 ```
 nix develop
+code .
 ```
+
+## VS Code extension
+
+[Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
